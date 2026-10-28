@@ -1,4 +1,4 @@
-﻿namespace GithubApp.Droid
+namespace GithubApp.Droid
 {
 
 
